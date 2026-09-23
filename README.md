@@ -1,2 +1,4 @@
 # FirstDemoProject
-This is my first learning in Github. <br> Author : Jitu Kumar
+This is my first learning in Github. 
+ Author : Jitu Kumar
+ 
